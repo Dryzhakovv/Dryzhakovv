@@ -1,8 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Ilya <br/> <br/> <img src='./codeImg.gif' style="width: 60%;" />
------------------------------------------
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Ilya
+=========================================
 
 Frontend developer and future ML engineer
 -----------------------------------------
+<br/> <img src='./codeImg.gif' style="width: 60%;" />
 
 * 🌍  I'm based in Rostov-on-Don
 * ✉️  You can contact me at [https://t.me/dryzhakovv](mailto:https://t.me/dryzhakovv)
