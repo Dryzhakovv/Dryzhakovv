@@ -1,4 +1,3 @@
-![me](./codeImg.gif)
 <div>
   <img src='./codeImg.gif' />
 </div>
