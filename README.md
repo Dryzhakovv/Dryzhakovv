@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://Dryzhakovv.github.io/myIntro.gif" align="center" style="width: 100%" />
+<img src="https://Dryzhakovv.github.io/myIntro.gif" align="center" style="width: 50%" />
 </div>  
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ilya
