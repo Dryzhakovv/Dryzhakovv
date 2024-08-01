@@ -8,8 +8,8 @@
 
 ###
 
-Frontend developer and future ML engineer
------------------------------------------
+<h2 align="center">Frontend developer and future ML engineer</h2>
+
 
 * 🌍  I'm based in Rostov-on-Don
 * ✉️  You can contact me at [https://t.me/dryzhakovv](mailto:https://t.me/dryzhakovv)
