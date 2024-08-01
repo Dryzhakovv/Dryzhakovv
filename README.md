@@ -33,7 +33,7 @@ const Ilya = {
 
 ###
 
-<p align="left">I am Self-taught frontend developer. I started in 2k17 and for current moment i am working in VK. I've been learning frontend almost for 4 years! But now I've decided to start machine learning!<br><br>- 🔭 So that is why now i'am focues on math,python and other ML staff.<br>- 📚 Also I help students in the university with their code, cause i'm a teaching assistant at MIPT!</p>
+<p align="left">I am Self-taught frontend developer. I started in 2k17 and for current moment i am working in VK. I've been learning frontend almost for 4 years! But now I've decided to start machine learning! So that is why now i'am focues on math,python and other ML staff. 📚 Also I help students in the university with their code, cause i'm a teaching assistant at MIPT!</p>
 
 
 * 🌍  CurrentlyI'm based in Rostov-on-Don
