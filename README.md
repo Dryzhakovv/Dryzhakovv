@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="./codeImg.gif"  />
+  <img height="300" width="600" src="./workImg.gif"  />
 </div>
 
 ###
