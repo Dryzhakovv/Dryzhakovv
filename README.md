@@ -1,5 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Ilya
-=========================================
+<div align="center">
+  <img height="300" width="600" src="./codeImg.gif"  />
+</div>
+
+###
+
+<h1 align="center">Hi 👋, my name is Ilya!</h1>
+
+###
 
 Frontend developer and future ML engineer
 -----------------------------------------
