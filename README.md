@@ -10,6 +10,20 @@
 
 <h2 align="center">Frontend developer and future ML engineer</h2>
 
+```javascript
+const Ilya = {
+    code: ["Javascript", "Python", "Typescript"],
+    askMeAbout: ["web dev", "tech", "D&D"],
+    technologies: {
+        frontend: {
+            js: ["React", "Redux", "Mobx"],
+        },
+        apps: ["Figma", "Miro", "Photoshop"],
+    },
+    company: 'VK'
+    currentFocus: "No Focus point at this time",
+};
+```
 
 * 🌍  I'm based in Rostov-on-Don
 * ✉️  You can contact me at [https://t.me/dryzhakovv](mailto:https://t.me/dryzhakovv)
