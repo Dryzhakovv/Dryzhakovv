@@ -31,7 +31,7 @@ const Ilya = {
 <p align="left">I am self-taught frontend developer. I started in 2k17 and for current moment i am working in VK (ex mailru group). I've been learning frontend almost for 4 years! But now I've decided to start machine learning! So that is why now i'am focused on math,python and other ML staff. 📚 Also I help students in the university with their code, cause i'm a teaching assistant at MIPT! Hope to become a true ML enginner in future.</p>
 
 
-* 🌍  CurrentlyI'm based in Rostov-on-Don
+* 🌍  Currently I'm based in Rostov-on-Don
 * ✉️  You can contact me at [https://t.me/dryzhakovv](mailto:https://t.me/dryzhakovv)
 * ⚡  Fun fact: I'm a big fan of DnD (i am the dungeon master btw)
 
