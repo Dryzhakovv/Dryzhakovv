@@ -12,6 +12,8 @@
 
 ```javascript
 const Ilya = {
+    age: 25,
+    location: 'Russia',
     code: ["Javascript", "Python", "Typescript"],
     askMeAbout: ["web dev", "tech", "D&D"],
     technologies: {
@@ -20,12 +22,12 @@ const Ilya = {
         },
         apps: ["Figma", "Miro", "Photoshop"],
     },
-    company: 'VK'
+    company: 'VK',
     currentFocus: "No Focus point at this time",
 };
 ```
 
-* 🌍  I'm based in Rostov-on-Don
+* 🌍  CurrentlyI'm based in Rostov-on-Don
 * ✉️  You can contact me at [https://t.me/dryzhakovv](mailto:https://t.me/dryzhakovv)
 * 🧠  I'm learning Mobx and some math for ML
 * ⚡  Fun fact: I'm a big fan of DnD (i am the dungeon master btw)
